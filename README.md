@@ -4,7 +4,7 @@
 
 💻 Passionate about Python, Django and Web Development
 
-🌱 Currently learning Full Stack Development
+🌱 Currently learning Full Stack  Development
 
 🚀 Built and deployed **TaskFlow**, a Django Task Management web application
 
